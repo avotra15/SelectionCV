@@ -9,6 +9,6 @@ import { FooterComponent } from './componenets/footer/footer.component';
   imports: [NavbarComponent, HomeComponent, FooterComponent],
   templateUrl: './app.component.html'
 })
-export class AppComponent {
+export class AppComponent  {
 
 }
